@@ -1,0 +1,6 @@
+framework module CEFGlue {
+  umbrella header "CEFGlue.h"
+
+  export *
+  module * { export * }
+}
