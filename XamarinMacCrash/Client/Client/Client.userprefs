@@ -4,26 +4,12 @@
       <File FileName="AppDelegate.cs" Line="37" Column="10" />
       <File FileName="Main.cs" Line="10" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Client" expanded="True">
-            <Node name="Client" expanded="True">
-              <Node name="References" expanded="True">
-                <Node name="Ninja.WebSockets.Net" selected="True" />
-              </Node>
-              <Node name="Packages" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Volumes/Yvonne/GitHub/vs-streamjsonrpc/src/StreamJsonRpc/JsonRpc.cs" line="1098" column="1" />
-      <Breakpoint file="/Volumes/Yvonne/GitHub/TestApplicationVSStream/Client/Client/AppDelegate.cs" relfile="AppDelegate.cs" line="29" column="13" />
+      <Breakpoint file="/Volumes/Yvonne/GitHub/TempFolder/XamarinMacCrash/Client/Client/AppDelegate.cs" relfile="AppDelegate.cs" line="29" column="13" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
