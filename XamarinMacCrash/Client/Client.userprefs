@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{BF977DD9-DA82-475D-AE7C-0806A0726425}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Client.csproj">
+    <Files>
+      <File FileName="Client/AppDelegate.cs" Line="28" Column="1" />
+      <File FileName="Client/ViewController.cs" Line="1" Column="1" />
+      <File FileName="Client/Main.cs" Line="10" Column="1" />
+      <File FileName="../../vs-streamjsonrpc/src/StreamJsonRpc/DelimitedMessageHandler.cs" Line="210" Column="41" />
+      <File FileName="../../vs-streamjsonrpc/src/StreamJsonRpc/JsonRpc.cs" Line="1098" Column="1" />
+      <File FileName="../../vs-streamjsonrpc/src/StreamJsonRpc/WebSocketMessageHandler.cs" Line="56" Column="1" />
+      <File FileName="../../../../../Library/Frameworks/Xamarin.Mac.framework/Versions/3.0.0.398/src/mono/mcs/class/referencesource/mscorlib/system/runtime/compilerservices/AsyncMethodBuilder.cs" Line="1089" Column="1" />
+      <File FileName="../../Ninja.WebSockets/Ninja.WebSockets/Internal/WebSocketFrameReader.cs" Line="50" Column="49" />
+      <File FileName="../../Ninja.WebSockets/Ninja.WebSockets/Internal/WebSocketImplementation.cs" Line="124" Column="1" />
+      <File FileName="../../Ninja.WebSockets/Ninja.WebSockets/Internal/BinaryReaderWriter.cs" Line="32" Column="34" />
+      <File FileName="Client/Client.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Client" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Yvonne/GitHub/vs-streamjsonrpc/src/StreamJsonRpc/DelimitedMessageHandler.cs" line="147" column="1" />
+      <Breakpoint file="/Volumes/Yvonne/GitHub/TestApplicationVSStream/Client/Client/AppDelegate.cs" relfile="Client/AppDelegate.cs" line="28" column="13" />
+      <Breakpoint file="/Volumes/Yvonne/GitHub/vs-streamjsonrpc/src/StreamJsonRpc/JsonRpc.cs" line="1123" column="16" />
+      <Breakpoint file="/Volumes/Yvonne/GitHub/vs-streamjsonrpc/src/StreamJsonRpc/JsonRpc.cs" line="1098" column="1" />
+      <Breakpoint file="/Volumes/Yvonne/GitHub/vs-streamjsonrpc/src/StreamJsonRpc/WebSocketMessageHandler.cs" line="56" column="12" />
+      <Breakpoint file="/Volumes/Yvonne/GitHub/Ninja.WebSockets/Ninja.WebSockets/Internal/WebSocketFrameReader.cs" line="50" column="1" />
+      <Breakpoint file="/Volumes/Yvonne/GitHub/Ninja.WebSockets/Ninja.WebSockets/Internal/BinaryReaderWriter.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
